@@ -10,7 +10,6 @@ Looking at sales data from 4 different retailers, I utilized Excel's Power Query
 * PowerBI
 * Excel Power Query
 * Google Slides/PowerPoint
-* 
 ---
 ### Repository Information 📄
 This repository includes 9 files:
