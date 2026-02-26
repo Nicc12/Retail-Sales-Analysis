@@ -17,9 +17,10 @@ Looking at sales data from 4 different retailers, I utilized Excel's Power Query
 This repository includes 9 files:
 
 * READ.md is what you are reading now and explains information associated with the project. 
-* Combined_Retail_Data.xlsx is the Excel workbook associated with the cleaning and Exploratory Data Analysis
-* Retail Sales Data.pptx is the slide dec displaying the steps and results with this project
-* RetailerDashboard.pbix is the PowerBI file containing the dashboard
-* RetailerDashboard.pdf is the pdf version of the dashboard from PowerBI
-* All other files are data files
-Note: 1. Retailer... through 4. Retailer... are the original datasets before combination and cleaning
+* Combined_Retail_Data.xlsx is the Excel workbook associated with the cleaning and Exploratory Data Analysis.
+* Retail Sales Data.pptx is the slide dec displaying the steps and results with this project.
+* RetailerDashboard.pbix is the PowerBI file containing the dashboard.
+* RetailerDashboard.pdf is the pdf version of the dashboard from PowerBI.
+* RetailSalesData.gif is a gif of the slides which displays at the top of this repository.
+* All other files are data files.
+Note: 1. Retailer... through 4. Retailer... are the original datasets before combination and cleaning.
