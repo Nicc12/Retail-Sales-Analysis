@@ -1,5 +1,5 @@
 # Retail Sales Analysis 📈 
-Looking at sales data from 4 different retailers, I utilized Excel's Power Query for data cleaning and PowerBI for Visualization. I also created a slide dec to present finds and methods.
+Utilizing Excel Power Query, Pivot Tables, PowerBI, and Slides I conducted a retail sales analysis using 4 different retailer datasets. All the data was combined and Cleaned with Power Query, then exported to PowerBI where I created an interactive dashboard. I logged the blueprint and findings of the the analysis in GoogleSlides/PowerPoint.
 <!--
 ![Alt text for screen readers](RetailSalesData.gif)
 -->
