@@ -6,5 +6,5 @@ Looking at sales data from 4 different retailers, I utilized Excel's Power Query
 This repository includes 9 files:
 
 * READ.md is what you are reading now and explains information associated with the project.
-* "1. Retailer... through 4. Retailer..." are the original datasets before combination and cleaning
+1. Retailer... through 4. Retailer... are the original datasets before combination and cleaning
 *
