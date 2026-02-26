@@ -1,7 +1,7 @@
 # Retail Sales Analysis 📈 
 Looking at sales data from 4 different retailers, I utilized Excel's Power Query for data cleaning and PowerBI for Visualization. I also created a slide dec to present finds and methods.
 
-![Alt text for screen readers](path/to/your/file.gif)
+<img src="path/to/your/file.gif" width="600" alt="Presentation Demo">
 
 ---
 ### Repository Information 📄
